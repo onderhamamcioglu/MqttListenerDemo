@@ -11,3 +11,4 @@
 - run `python .\publisher\publisher.py` to publish messages on mosquitto
 
 ### 3 - Run your Java code :)
+- `gradle bootRun`
